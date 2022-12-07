@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: be15b1fb3804bbb479bc8022e0ad20a7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Malik Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: db3126d860b1447489e5ccda2d5566b0, type: 3}
+  - {fileID: 12800000, guid: 558da1603f31eec42894d9d5302037c0, type: 3}
+  - {fileID: 12800000, guid: 4421d27825ebf0e4e93bfdc5e5e0abaa, type: 3}
+  - {fileID: 12800000, guid: 84ceea83eee2ed5458157155ce4f988c, type: 3}
+  - {fileID: 12800000, guid: e7c6b7628da9d28489da8fc21d295799, type: 3}
+  - {fileID: 12800000, guid: dac5240c291f6684ab34bfcab3d1f4dc, type: 3}
+  - {fileID: 12800000, guid: f88ff34314af2ec47a0900e47cdc197a, type: 3}
+  - {fileID: 12800000, guid: 2cfa1cf3710166246b9ec283798aa395, type: 3}
+  - {fileID: 12800000, guid: 6c08d7e0ac055674da76937aff915438, type: 3}
+  - {fileID: 12800000, guid: f0c19d439c032134c92ccfed0a5c2938, type: 3}
+  - {fileID: 12800000, guid: 93b40bf1b5a133848ba87d42e37e2c31, type: 3}
+  - {fileID: 12800000, guid: 2b8ff45ea87b61241ab547c480b9b698, type: 3}
+  - {fileID: 12800000, guid: b3bbc5bc20f763740bfa3c888a2a4ad8, type: 3}
+  - {fileID: 12800000, guid: f50fae8c4ef66684aaa664de8dd72c05, type: 3}
+  - {fileID: 12800000, guid: 425d33807d9860f49adb6ffcb18a9cf9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ec771cee2ecb1454cb8b1d5e76740dd8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Himagsikan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 55fb0832ced6f6641aff3dd1eb1766e0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

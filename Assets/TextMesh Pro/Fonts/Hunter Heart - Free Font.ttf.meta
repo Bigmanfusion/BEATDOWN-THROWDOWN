@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f4bd9ace4ef38b4895381757fa0b4f7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hunter Heart Free Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 488d73d429bc53a458fdefcd2dcd07be, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

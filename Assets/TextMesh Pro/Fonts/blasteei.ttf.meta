@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f655ccecf4c7cba4aa44b2099acfa381
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blaster Eternal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0b89e3d74fbe854cbb6089dcc111b80, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

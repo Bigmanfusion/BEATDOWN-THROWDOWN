@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c0fb5e77ece249047b3cbcb1a59f4791
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alumni Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70f68f46356cafa40b65699210543e1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

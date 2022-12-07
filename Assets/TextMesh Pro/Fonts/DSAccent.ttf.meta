@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1deb3369c73a3c5488f0a26e1828d418
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DS Accent
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 78c2306459d120d4bb3fd3b1978f0f62, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

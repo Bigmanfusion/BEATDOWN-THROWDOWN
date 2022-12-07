@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 57cb3f2b6cf85d04a8a367196f235e77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gradientico
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 46e3ba51c1850534e9a54ff7183f763d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

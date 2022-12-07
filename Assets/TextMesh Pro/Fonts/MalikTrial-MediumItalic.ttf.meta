@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 425d33807d9860f49adb6ffcb18a9cf9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Malik Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0c19d439c032134c92ccfed0a5c2938, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

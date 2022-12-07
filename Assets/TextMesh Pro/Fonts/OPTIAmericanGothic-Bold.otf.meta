@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b9423129c2ad3c64faf6d0987e7b6879
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - OPTIAmericanGothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c8df43f8d59edd14dbe3f9c317c33fee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

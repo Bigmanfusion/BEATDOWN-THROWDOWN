@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0b1a4b4846d5eb040b660f445bc6e9b2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NORTHCLIFF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 39ef93996528c6343bdd4b88bd3c9c4b, type: 3}
+  - {fileID: 12800000, guid: e29d7ac9b60d8454a98389cb20e4988f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

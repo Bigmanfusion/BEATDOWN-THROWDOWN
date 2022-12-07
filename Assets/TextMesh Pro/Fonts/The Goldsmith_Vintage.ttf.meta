@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 95f55f5cb63fbd5439996598e28267a0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - The Goldsmith Vintage
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4414bd4b8b6482d47a85f61881045290, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 76ec3598904dc3241bd1c3f847eba460
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DS Bison Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 033cc7dd43f063142b21edfa611ed335, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bf599ac9cbb6fef4885b17d2987b3a67
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Summer Candy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 99910dd1fde13c540911c0ab2f1d6a3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

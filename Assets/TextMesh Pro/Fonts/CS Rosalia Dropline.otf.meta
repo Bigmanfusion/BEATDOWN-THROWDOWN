@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4eb4531f23f1b674fb2b4e71f0d778d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CS Rosalia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e11a80920f0047841a30aeafe055e319, type: 3}
+  - {fileID: 12800000, guid: c11b3909c95534047af126e064023464, type: 3}
+  - {fileID: 12800000, guid: 866f24d1730ca704b9bcb98c2014af68, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bae58e25c549104458969b1af54b2ba1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blaster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2a1a489b5484d44482a3cae4fdc2a49, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

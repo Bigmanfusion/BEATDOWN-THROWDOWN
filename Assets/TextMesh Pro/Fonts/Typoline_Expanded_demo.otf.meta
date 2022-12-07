@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4df5ed53b7dd7e943a6352daff2d18cd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Typoline Expanded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e3407af8dfa11d64c9496faf635d021f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

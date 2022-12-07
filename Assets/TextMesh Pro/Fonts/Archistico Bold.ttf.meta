@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 54bd4c0a2ff95724f99102df61a1f29e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Archistico
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32eadde888da2d84286d38494c71b9eb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

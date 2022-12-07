@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2e4a8e1c89e975942be0381d08e0cd6c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Miztar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5a9ec72e11af9e41b76c671dd6c79f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

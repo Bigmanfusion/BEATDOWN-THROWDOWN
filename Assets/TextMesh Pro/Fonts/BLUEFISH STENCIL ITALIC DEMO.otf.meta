@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ecbb67dcc17812d438eeacd97cd493eb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bluefish STENCIL DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: da960ccc973e7424e8b5addc25d02c71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

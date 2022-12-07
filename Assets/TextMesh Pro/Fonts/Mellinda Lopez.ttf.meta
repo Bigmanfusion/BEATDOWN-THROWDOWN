@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6adc98031ffb8c54ea6251144be00dd4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mellinda Lopez
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74f6317d9f718f74993902f517fe5b7d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

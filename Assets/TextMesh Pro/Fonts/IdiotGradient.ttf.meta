@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f7f62556e3e7e94ca5c4c40137f550b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Idiot Gradient
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6e7a9087fa72fa040aebc9528a4c70c9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

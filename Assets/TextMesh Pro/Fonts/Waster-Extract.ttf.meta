@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a0e6a3d8832f504fb113f0a8315dbe9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Waster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 411523a37c0ef8f4ab0a04cb7aaf5d06, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

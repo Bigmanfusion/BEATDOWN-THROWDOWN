@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3cbcd04e32cf02b47a37b938594b9d02
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cabaret Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2954d8fad03e060478b49137580fc271, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

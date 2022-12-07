@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b3e41bb436e56e84f8fa38967eec3404
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alejo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 031bef7f880b5fc4e8c7130b2b99c850, type: 3}
+  - {fileID: 12800000, guid: 5111f05665b27d64c9ae5c0bc25d426e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

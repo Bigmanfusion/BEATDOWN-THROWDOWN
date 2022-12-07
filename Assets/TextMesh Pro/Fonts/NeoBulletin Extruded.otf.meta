@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4506b95cb66a42445a8f6d117c1d474d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NeoBulletin Extruded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 011f47f29a55b464bbc0a2c755ec18cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

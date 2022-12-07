@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1c463b75cf4f0ff44baa19f14fef7741
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Highwind
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1bd284d2dca6a04ba65d6bcac9c1b36, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

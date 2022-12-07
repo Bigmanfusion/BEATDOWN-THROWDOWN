@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4378c82db6f9120419406ea9b52c930f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Broadway Flat 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30bcb5e495680564396c3268d0be973e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

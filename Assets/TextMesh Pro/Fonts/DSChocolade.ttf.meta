@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f5b1e80ddc6bc1f428c8d52507b490f8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DS Chocolade
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44b366937f86bfc458ee6c0d3b90891c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

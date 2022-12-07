@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f33250690c2667c4fbe4a957ae67ebe9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Wild Creatures Sample
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1d3a0726a5eda04ba6d4c877d53d318, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

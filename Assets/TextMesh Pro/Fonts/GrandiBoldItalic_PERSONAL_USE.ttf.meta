@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5c319928ce7a97e43b1799bec2508804
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Grandi PERSONAL USE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f96c8c92477956246b9d61c6899591f3, type: 3}
+  - {fileID: 12800000, guid: 226edb50d331fa645946e587a514cf9b, type: 3}
+  - {fileID: 12800000, guid: 17c31f070cde2a6488120010a614b1a5, type: 3}
+  - {fileID: 12800000, guid: a1e8fa9d1c1a9c243a00a1a6fcc6d8fe, type: 3}
+  - {fileID: 12800000, guid: cbf4b877f6ffa254aabdb0ad8bad2971, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

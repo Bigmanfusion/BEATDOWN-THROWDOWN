@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5cf54ed69e49d4d4f983501e19be6384
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Broadway Gradient 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e597bea8f70e6fa42b015e3f23fb5c7d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

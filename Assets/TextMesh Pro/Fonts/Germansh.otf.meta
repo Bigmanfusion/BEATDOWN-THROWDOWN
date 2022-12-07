@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 669bbf9bb608aeb44ae467f9f4e93eef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Germania Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 502d60dfb5b82b041865d2e5abbcd24d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

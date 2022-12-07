@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 976346a482b05d84abb77e46d35c4c4d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Boring Sans B Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85a0e60080a2b3b46a8db547db211192, type: 3}
+  - {fileID: 12800000, guid: 00fc6621bf02d014ba83b6d9943add8f, type: 3}
+  - {fileID: 12800000, guid: a52a806334f3e2443ada30552afcd6ab, type: 3}
+  - {fileID: 12800000, guid: e155ee2574040de4eb91291072abd3dc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

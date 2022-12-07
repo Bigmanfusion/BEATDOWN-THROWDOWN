@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cb1c8defe28ee0f4a88730ac57580a7c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Jellies
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 642b38123240f3b43bda3faebd9f119d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

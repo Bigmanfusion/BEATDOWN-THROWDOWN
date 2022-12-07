@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bbc82407c97444b4facd73d8be24a25e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Spiky Book
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b6c379b9a46df094991cb155ac3c55b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

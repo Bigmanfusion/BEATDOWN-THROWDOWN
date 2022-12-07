@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fb18b5881be19c24782fd39d6c0b5a36
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Buffalord Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69eee44dff77dca4a854cfc3c4a28e12, type: 3}
+  - {fileID: 12800000, guid: 195b766dfb587b74c81bd7bebaf79392, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8270c31b076171b4c85f5af59ec598ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Andrey
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 610fe0ddaeff0514ead543143f09f4a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

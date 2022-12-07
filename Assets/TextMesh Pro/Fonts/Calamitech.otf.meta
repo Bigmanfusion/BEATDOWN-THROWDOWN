@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b7fdbac09c530f546a8296ba3da9c118
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Calamitech
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e5bcfd3973a061e48ad445499bf3ecb6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

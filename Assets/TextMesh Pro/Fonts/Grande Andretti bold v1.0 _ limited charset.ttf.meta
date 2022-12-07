@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ad8a5b8e41485ed419e6bc9467838e59
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Grande Andretti - limited chars
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 305c01ce994be13439d66c58d3839637, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

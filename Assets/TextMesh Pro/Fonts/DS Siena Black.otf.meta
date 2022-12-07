@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2d805fef282baa24784321bda551b175
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DS Siena Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7606305ad4a445e428bbd363e8559381, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

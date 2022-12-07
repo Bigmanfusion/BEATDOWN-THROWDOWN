@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3969909c57299344e9e131c8331c160d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Young Heart
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 738f8d509b237d849803e31a8825490e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

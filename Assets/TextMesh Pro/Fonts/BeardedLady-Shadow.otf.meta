@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ecd58e78a58b7b488aa42f76c0e9d10
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bearded Lady
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 495f44e64e90c54419c70ccdc66f5359, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

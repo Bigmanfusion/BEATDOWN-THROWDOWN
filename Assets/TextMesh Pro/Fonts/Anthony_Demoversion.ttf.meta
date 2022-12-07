@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff2bb8ee4ac07ac419166751135257b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Anthony Demoversion
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4299b7b7b3217fb4293d09332d6f47b6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0d6816ba7e54aa44b8c460f6ccf386ad
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Borough Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f3b75b30864100e459f2be9375419cca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

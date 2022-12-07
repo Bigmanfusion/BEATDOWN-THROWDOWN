@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: acf88c2c958b6ad4089479e35280322a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Typoline Demi Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97376b18d86bf4745b32fe08b1714cf9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

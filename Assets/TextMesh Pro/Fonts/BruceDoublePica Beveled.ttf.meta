@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 17ab618c5862dc34d92058eb6cc4d2e7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BruceDoublePica Beveled
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2574663e01e11484ca66abfd402b99f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

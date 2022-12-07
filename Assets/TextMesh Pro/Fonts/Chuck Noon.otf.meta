@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 52207bc0ae4663a4da29b71241e6cc00
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chuck Noon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a172a93be537fcf418e6b2c03b8569d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

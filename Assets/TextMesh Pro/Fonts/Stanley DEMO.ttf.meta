@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bfa484cbdfd2b4148a7374018555f622
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Stanley DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fe4738d536e9cd04fb53d72dd4fcc9ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

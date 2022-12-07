@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 40035a8aaa42db0498715a5573a1655e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rocket-Vintage
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00be7fb69765cec41a4ef1346ccd1beb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
